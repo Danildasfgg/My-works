@@ -23,5 +23,4 @@ else:
         else:
             if action == "делить":
                 result = diving(number_1, number_2)
-                print(result)
-
+                print(result)                
