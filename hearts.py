@@ -21,6 +21,6 @@ def createHearts(text):
                 heart_line += " "
         heart.append(heart_line)
     return "\n".join(heart)
-bestGirlName = "ника"
+bestGirlName = "ирина"
 heart = createHearts(bestGirlName)
 print(heart)
